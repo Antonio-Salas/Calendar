@@ -1,0 +1,21 @@
+.day {
+    height: 100px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    color: #242424;
+}
+
+.day:hover {
+    background-color: #d4afff;    
+}
+
+.currentlyDay {
+    border-color: #7700ff;
+    background-color: #7700ff;
+    color: white;
+    font-weight: bold;
+}
+
+.weekName {
+    width: 100px;
+}
